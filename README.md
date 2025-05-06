@@ -2,9 +2,9 @@
 
 Mystic Forest is a fast-paced arcade shooter where players dodge intense bullet patterns, customize characters and settings, and battle enemies to defeat a powerful boss.
 
-# How to Run the Project
+# How to Run the Game
 
-There are two ways to run the project: via a Windows `.exe` file or in the browser using HTML + Live Server.
+There are two ways to run the Game: via a Windows `.exe` file or in the browser using HTML + Live Server.
 
 # 1.Windows Executable (.exe)
 - Navigate to the root directory.
