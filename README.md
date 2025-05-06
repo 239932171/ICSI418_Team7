@@ -1,6 +1,6 @@
 # ICSI418_Team7 - Final Project
 
-This is the final submission for the ICSI 418Y course project by Team 7.
+Mystic Forest is a fast-paced arcade shooter where players dodge intense bullet patterns, customize characters and settings, and battle enemies to defeat a powerful boss.
 
 # How to Run the Project
 
